@@ -1,7 +1,7 @@
 MedBot chat started: July 11, 2021 at 12:46 AM withUser
 
 MedBot : Hi! i am Medbot how can i help you?
-You : hi
+You : hi : )
 MedBot : hey!
 You : who are you?
 MedBot : Hola, you can call me medbot,your medical care assistant
