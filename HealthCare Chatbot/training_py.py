@@ -41,9 +41,8 @@ pickle.dump(classes,open('classes.pkl','wb'))
 
 
 
-training=[]
+training = []
 output_empty=[0]*len(classes)
-
 for document in documents:
   bag=[]
   word_patterns=document[0]
